@@ -8,7 +8,7 @@ class Titan < Formula
   depends_on "erlang"
 
   def install
-    bin.install "titan"
+    bin.install "titan-v0.5.4"
   end
 
   test do
