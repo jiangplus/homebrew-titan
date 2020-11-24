@@ -1,9 +1,9 @@
 class Titan < Formula
   desc ""
   homepage ""
-  url "http://titan.s3.cn-northwest-1.amazonaws.com.cn/brew/v0.5.4/titan"
-  version "0.5.4"
-  sha256 "6640d9bbff146b9a4180658be9db5b45dbf8cc597b880e0180fda971b116cf4f"
+  url "http://titan.s3.cn-northwest-1.amazonaws.com.cn/bin/linux/titan"
+  version "0.6.0"
+  sha256 "44631f7d4527d41939eb6537a3fc0ae3d006b8aebbdfb7ae357aad785a5cbb2a"
 
   depends_on "erlang"
 
